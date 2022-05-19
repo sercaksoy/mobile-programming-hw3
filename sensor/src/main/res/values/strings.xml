@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="textview_acc">"Acc: "</string>
+    <string name="textview_light">"Light: "</string>
+    <string name="textview_info">"INFO:\n"</string>
+    <string name="textview_context">Context:</string>
+</resources>
